@@ -1,2 +1,2 @@
 # invader_pygame
-Yes hehe
+Yes it's a simple invader game hehe
